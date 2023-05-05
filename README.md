@@ -38,6 +38,8 @@ Email: [michaelpwelle@gmail.com](mailto:michaelpwelle@gmail.com)
 
 Github: [github.com/mwelle238](https://www.github.com/mwelle238/curious-fungus)
 
+Heroku: [https://curious-fungus.herokuapp.com/](https://curious-fungus.herokuapp.com/)
+
 ## Screenshots
 
 ![open app](https://github.com/mwelle238/curious-fungus/blob/main/screenshots/image1.JPG)
